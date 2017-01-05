@@ -1,0 +1,117 @@
+.main {
+	position:relative;
+
+	min-height: 600px;
+	width:800px;
+	margin: 0px auto;
+	/*background-color: #aeaed7;*/
+}
+.panel{
+	float:left;
+	min-height:600px;
+	width:180px;
+	background-color: #8080c0;
+	margin: 0px ;
+	padding:5px;
+}
+.session-area{
+	height:600px;
+	width:580px;
+	background-color: #66ff66;
+	margin: 0px ;
+	float:left;
+	padding:5px;
+	background-image: url("../images/background2.png");
+	
+}
+.text{
+	font-weight: bold;
+	color: #00ff00;
+	align:center;
+}
+.username_style{
+	font-weight: bold;
+	font-size: 20px;
+	color:#0000ff;
+}
+.top{
+	width:560px;
+	height:50px;
+	margin:0px auto;
+	/*border:solid 1px #000;*/
+	padding: 2px;
+	box-shadow: 0px 0px 5px  5px #00ffff;
+}
+.middle{
+	width:560px;
+	height:400px;
+	margin:0px auto;
+	border:1px solid red;
+	padding: 2px;
+	box-shadow: 0px 0px 5px 5px #00ffff;
+}
+.bottom{
+	width:560px;
+	height:200x;
+	margin:0px auto;
+	
+	padding: 2px;
+	box-shadow: 0px 0px 5px 5px #00ffff;
+}
+
+.search_result{
+	width:800px;
+	height:550px;
+	margin: 0px auto;
+	
+	
+}
+.search_head{
+	width:800px;
+	height:50px;
+	margin:0px auto;
+	font-size: 50px;
+	font-weight: bold;
+	
+}
+.search_head p{
+	margin:0px auto;
+}
+.listUser{
+	cellspacing:5px;
+	width: 80%;
+	border: 2px solid green;
+}
+.listRow{
+	border: 2px solid green;
+}
+.register{
+	width: 400px;
+	height:500px;
+	margin: 0px auto;
+	text-align: center;
+}
+.login{
+	width: 400px;
+	height:500px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
